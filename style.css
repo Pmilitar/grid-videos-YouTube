@@ -1,0 +1,19 @@
+.contenedor{
+    border: 5px solid royalblue;
+    background-color:dimgray;
+    display:grid;
+   grid-template-columns: 1fr 3fr;
+   grid-auto-rows: 350px;
+    place-content: center;
+    gap: 20px;
+}
+
+.video{
+   
+}
+
+.title {
+    color: blue;
+    font-size: 3rem;
+    text-align: center;
+}
